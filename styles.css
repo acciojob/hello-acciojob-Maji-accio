@@ -1,3 +1,17 @@
 
 /* Your CSS Code here. */
-.
+main.accio#job {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* black background */
+    display: flex; /* Using flexbox to center the text */
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+}
+
+/* Style for the p element with class "hello-accio" */
+p.hello-accio {
+    color: #ffffff; /* white text */
+    margin-left: 32px;
+    padding: 10px;
+}
